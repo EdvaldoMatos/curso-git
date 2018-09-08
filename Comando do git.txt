@@ -3,3 +3,4 @@ Faz checkout de um branch do servidor
 Com o comando git checkout -t origin/design, todo esse trabalho é feito automaticamente para a branch chamada design.
 
 teste
+teste 2
