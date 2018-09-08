@@ -4,3 +4,4 @@ Com o comando git checkout -t origin/design, todo esse trabalho é feito automat
 
 teste
 teste 2
+Teste de comando do vi 
